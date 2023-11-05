@@ -10,5 +10,5 @@ Easily export and import data.</br>
 https://minhnthfx21984.github.io/thucung/index.html
 
 <h3>Deployment guide:</h3>
-1. git clone https://github.com/minhnthfx21984/thucung.git
+1. git clone https://github.com/minhnthfx21984/thucung.git</br>
 2. run index.html
