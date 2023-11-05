@@ -1,4 +1,4 @@
-<h1>Pet management</h1>h1>
+<h1>Pet management</h1>
 
 <h3>Function description:</h3>
 Add, edit, delete pet information.</br>
